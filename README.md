@@ -1,4 +1,6 @@
-# Encryption-Program
+# Encryption-Application
+
+Terminal based encryption application.
 
 summary: asks for user choice to encode, decode or quit the program, 
         gets users text and cipher IF they want to encode or decode their text (choice not 0), 
