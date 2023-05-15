@@ -1,4 +1,4 @@
-# Encryption-Assignment
+# Encryption-Program
 
 summary: asks for user choice to encode, decode or quit the program, 
         gets users text and cipher IF they want to encode or decode their text (choice not 0), 
